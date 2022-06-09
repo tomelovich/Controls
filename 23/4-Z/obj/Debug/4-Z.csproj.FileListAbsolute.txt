@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\КПиЯП практика\23\4-Z\bin\Debug\4-Z.exe.config
+C:\Users\Admin\Desktop\КПиЯП практика\23\4-Z\bin\Debug\4-Z.exe
+C:\Users\Admin\Desktop\КПиЯП практика\23\4-Z\bin\Debug\4-Z.pdb
+C:\Users\Admin\Desktop\КПиЯП практика\23\4-Z\obj\Debug\4-Z.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\КПиЯП практика\23\4-Z\obj\Debug\_4_Z.Form1.resources
+C:\Users\Admin\Desktop\КПиЯП практика\23\4-Z\obj\Debug\_4_Z.Properties.Resources.resources
+C:\Users\Admin\Desktop\КПиЯП практика\23\4-Z\obj\Debug\4-Z.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\КПиЯП практика\23\4-Z\obj\Debug\4-Z.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\КПиЯП практика\23\4-Z\obj\Debug\4-Z.exe
+C:\Users\Admin\Desktop\КПиЯП практика\23\4-Z\obj\Debug\4-Z.pdb
